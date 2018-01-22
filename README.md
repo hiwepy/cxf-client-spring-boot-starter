@@ -17,7 +17,7 @@
 </dependency>
 ```
 
-### Simple
+### Sample
 
-[https://github.com/vindell/spring-boot-starter-samples/tree/master/spring-boot-simple-cxf-client](https://github.com/vindell/spring-boot-starter-samples/tree/master/spring-boot-simple-cxf-client "spring-boot-simple-cxf-client")
+[https://github.com/vindell/spring-boot-starter-samples/tree/master/spring-boot-sample-cxf-client](https://github.com/vindell/spring-boot-starter-samples/tree/master/spring-boot-sample-cxf-client "spring-boot-sample-cxf-client")
 
